@@ -1071,5 +1071,10 @@
         </profile>
 
     </profiles>
+    <properties>
+  <sonar.projectKey>jhordangab_exemplo</sonar.projectKey>
+  <sonar.organization>jhordangab</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
 </project>
